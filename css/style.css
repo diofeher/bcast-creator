@@ -1,0 +1,43 @@
+#add {
+	position: fixed;
+	top: 40%;
+	right: 5px;
+	background: url('../img/plus.png');
+	width: 64px;
+	height: 64px;
+	padding:4px;
+	border: none;
+	z-index:1;
+	cursor: pointer;
+}
+
+#publish {
+	position: fixed;
+	top: 25%;
+	right: 5px;
+	width: 64px;
+	height: 64px;
+	padding:4px;
+	border: none;
+	z-index:1;
+	cursor: pointer;
+}
+
+
+#add-audio {
+	position: fixed;
+	top: 10%;
+	right: 5px;
+	background: url('../img/microphone.png');
+	background-size: auto;
+	width: 64px;
+	height: 64px;
+	border: none;
+	cursor: pointer;
+}
+
+#toolbar {
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
